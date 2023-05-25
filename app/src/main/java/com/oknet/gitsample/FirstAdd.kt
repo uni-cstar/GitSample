@@ -3,6 +3,6 @@ package com.oknet.gitsample
 class FirstAdd {
 
     fun print(){
-        println("the file is first added.")
+        println("the f  ile is first added.")
     }
 }
